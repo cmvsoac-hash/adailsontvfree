@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Shop", PREMEIRE CLUBES
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites (720p) [Não 24h]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PlusSBTNovelas.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png" group-title="Séries",+SBT Novelas (1080p) [Bloqueio geográfico]
